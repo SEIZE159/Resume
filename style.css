@@ -54,7 +54,7 @@ body{
 .contactinfo{
     color: aqua;
     font-size: 1.2rem;
-
+    border-bottom: 1px solid white;
 }
 h2{
     font-size: 2rem;
