@@ -64,25 +64,34 @@ h2{
     font-size: 1.2rem;
     border-bottom: 1px solid white;
 }
+.languages{
+    color: aqua;
+    font-size: 1.2rem;
+    border-bottom: 1px solid white;
+}
 .about p{
     font-size: 1.4rem;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     border-bottom: 1px solid black;
 
 }
 .exp{
     font-size: 1.4rem;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     border-bottom: 1px solid black;
 
 }
 .skills{
     font-size: 1.4rem;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     border-bottom: 1px solid black;
 
 }
 .hobbies{
     font-size: 1.4rem;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
+    color: aqua;
+}
+.society{
+    font-size: 1.4rem;
 }
